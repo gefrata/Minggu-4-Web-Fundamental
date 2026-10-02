@@ -1,0 +1,14 @@
+{
+    "target_host": "nmap.scanme.org",
+    "target_ip": "45.33.32.156",
+    "port_range": {
+        "start": 1,
+        "end": 1024
+    },
+    "scan_time": "2026-10-02 13:23:03",
+    "total_open_ports": 2,
+    "open_ports": [
+        22,
+        80
+    ]
+}
